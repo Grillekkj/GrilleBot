@@ -1,0 +1,11 @@
+{
+    "connection": {
+        "secure": true,
+        "reconnect": true
+    },
+    "identity": {
+        "username": "Nome de usuario do seu bot",
+        "password": "Oauth da conta do seu bot"
+    },
+    "channels": ["Canal onde o bot vai ficar"]
+}
